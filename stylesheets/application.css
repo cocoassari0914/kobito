@@ -18,7 +18,7 @@ tt, code, pre { font-family: Consolas, "Liberation Mono", Courier, monospace; fo
 
 #content h1, h2, h3, h4 { color: #333; }
 
-#header { background: #E4ECDC url(../images/headImg.png) no-repeat center; padding: 34px 38px 10px 6px; height: auto; }
+#header { background: #E4ECDC url(../images/head_img.jpg) no-repeat center; padding: 34px 38px 10px 6px; height: auto; }
 #header a { color: black; }
 #header > h1 { background: url(../images/logo.png) no-repeat 10px 10px; padding: 8px 100px; color: black; font-size:320%;}
 
